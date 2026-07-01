@@ -1,0 +1,21 @@
+{
+  "project": "mi-proyecto",
+  "rules": {
+    "one_feature_at_a_time": true,
+    "require_tests_to_close": true,
+    "valid_status": ["pending", "in_progress", "done", "blocked"]
+  },
+  "features": [
+    {
+      "id": 1,
+      "name": "ejemplo",
+      "title": "Primera feature",
+      "description": "Descripción breve",
+      "acceptance": [
+        "Criterio verificable 1",
+        "Criterio verificable 2"
+      ],
+      "status": "pending"
+    }
+  ]
+}

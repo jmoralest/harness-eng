@@ -1,0 +1,4 @@
+# Sesión activa
+
+<!-- Feature: — -->
+<!-- Plan: — -->
