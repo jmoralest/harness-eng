@@ -21,7 +21,8 @@ adopte harness engineering en proyectos nuevos o existentes.
 | Documento | Contenido |
 |-----------|-----------|
 | [docs/explicacion-arquitectura.md](docs/explicacion-arquitectura.md) | Pilares: Contexto, Control, Orquestación |
-| [docs/como-aplicar.md](docs/como-aplicar.md) | Adoptar en proyecto nuevo o legacy |
+| [docs/uso-en-otros-proyectos.md](docs/uso-en-otros-proyectos.md) | **Cómo aplicar este kit en tus proyectos** (guía simple) |
+| [docs/como-aplicar.md](docs/como-aplicar.md) | Adoptar en proyecto nuevo o legacy (guía completa) |
 | [docs/security-plane.md](docs/security-plane.md) | Plano de seguridad |
 | [docs/glosario.md](docs/glosario.md) | Conceptos |
 

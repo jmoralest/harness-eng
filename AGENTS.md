@@ -10,7 +10,7 @@
 
 Sigue este protocolo **en orden**:
 
-1. Lee [docs/como-aplicar.md](docs/como-aplicar.md) — guía completa de adopción.
+1. Lee [docs/uso-en-otros-proyectos.md](docs/uso-en-otros-proyectos.md) (simple) o [docs/como-aplicar.md](docs/como-aplicar.md) (completa).
 2. Ejecuta auditoría del proyecto objetivo:
    ```bash
    ./scripts/audit-harness.sh /ruta/al/proyecto-objetivo
@@ -33,7 +33,8 @@ Sigue este protocolo **en orden**:
 | Entender la arquitectura | [docs/explicacion-arquitectura.md](docs/explicacion-arquitectura.md) |
 | Conceptos | [docs/glosario.md](docs/glosario.md) |
 | Seguridad | [docs/security-plane.md](docs/security-plane.md) |
-| Aplicar a otro repo | [docs/como-aplicar.md](docs/como-aplicar.md) |
+| Aplicar a otro repo (simple) | [docs/uso-en-otros-proyectos.md](docs/uso-en-otros-proyectos.md) |
+| Aplicar a otro repo (completa) | [docs/como-aplicar.md](docs/como-aplicar.md) |
 | Archivos base para copiar | [plantilla/](plantilla/) |
 
 ---
